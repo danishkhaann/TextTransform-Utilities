@@ -1,5 +1,7 @@
 # TextTranform-Utilities
 
+https://danishkhaann.github.io/TextTransform-Utilities/
+
 TextTransform-Utilities is a word counter and a character counting utility which can be used to manipulate your text in the way you want. You can Encode and Decode your texts Base64 Encoding/Decoding, Copy the manipulated text to clipboard as well as convert your text from Uppercase to lowercase and lowercase to Uppercase. It is built on React.JS.
 
 # Getting Started with Create React App
