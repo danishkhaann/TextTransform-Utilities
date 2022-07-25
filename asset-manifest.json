@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/danishkhaann/TextTransform-Utilities.git/static/css/main.cea0d441.css",
-    "main.js": "/danishkhaann/TextTransform-Utilities.git/static/js/main.dfbe83fd.js",
-    "index.html": "/danishkhaann/TextTransform-Utilities.git/index.html",
-    "main.cea0d441.css.map": "/danishkhaann/TextTransform-Utilities.git/static/css/main.cea0d441.css.map",
-    "main.dfbe83fd.js.map": "/danishkhaann/TextTransform-Utilities.git/static/js/main.dfbe83fd.js.map"
+    "main.css": "/TextTransform-Utilities/static/css/main.cea0d441.css",
+    "main.js": "/TextTransform-Utilities/static/js/main.dfbe83fd.js",
+    "index.html": "/TextTransform-Utilities/index.html",
+    "main.cea0d441.css.map": "/TextTransform-Utilities/static/css/main.cea0d441.css.map",
+    "main.dfbe83fd.js.map": "/TextTransform-Utilities/static/js/main.dfbe83fd.js.map"
   },
   "entrypoints": [
     "static/css/main.cea0d441.css",
